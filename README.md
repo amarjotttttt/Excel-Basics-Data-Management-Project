@@ -10,7 +10,8 @@ The workbook contains 3 sheets:
 ## What I Did
 
 **Part 1 - Data Entry**
- Created a Sales Data sheet with 10 salesperson entries across columns - Name, Region, Product, Units Sold, Price per Unit, Total Sales, Incentive, and Incentive   Rate.
+
+Created a Sales Data sheet with 10 salesperson entries across columns - Name, Region, Product, Units Sold, Price per Unit, Total Sales, Incentive, and Incentive   Rate.
 
 **Part 2 - Formulas**
 - Total Sales = Units Sold x Price per Unit
