@@ -19,6 +19,7 @@ Created a Sales Data sheet with 10 salesperson entries across columns - Name, Re
 - Incentive Rate shown as a seperate percentage column
 
 **Part 3 - Formatting**
+
 Applied ₹ currency format, bold headers, background colours, borders on all cells, centre-aligned headings, and adjusted row height and column widths.
 
 **Part 4 - Cut, Copy & Paste Special**
